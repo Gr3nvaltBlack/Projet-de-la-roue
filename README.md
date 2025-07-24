@@ -5,13 +5,11 @@ Cette application permet de faire tourner une roue et d'obtenir un résultat al�
 ___
 
 ### 📁 Structure du projet
-        ```text
+
         projet-roue/
         ├── index.html
         ├── style.css
         └── script.js
-        ```
-___
 
 ---
 
