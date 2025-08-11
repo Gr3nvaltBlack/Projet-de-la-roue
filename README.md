@@ -1,45 +1,22 @@
-<h2 align="center">Roue Aleatoire</h2>
+# 🛠️ Personal Project
 
-Création d'une roue aléatoire interactive basée sur trois langages : **HTML**, **CSS** & **JavaScript**.
-Cette application permet de faire tourner une roue et d'obtenir un résultat aléatoire visuellement.
-___
-
-### 📁 Structure du projet
-
-        projet-roue/
-        ├── index.html
-        ├── style.css
-        └── script.js
+Welcome to **M-project-quest** repository.
+Here, I share my projects designed to learn, experiment, and have fun with programming.
 
 ---
 
-### 🚀 Fonctionnalités
+## 📂 Project List
 
-- Interface visuelle d'une roue
-- Animation de rotation fluide
-- Résultat aléatoire affiché dynamiquement
-- Responsive (adaptée à différentes tailles d'écran)
-
----
-
-### 💻 Technologies utilisées
-
-- **HTML** – pour la structure de la page
-- **CSS** – pour le style et les animations
-- **JavaScript** – pour la logique aléatoire et les interactions
+### 🎯 Project 1 — Random Wheel
+A random wheel coded in **HTML, CSS, and JavaScript**. 
+It allows you to choose an item at random from several options.
 
 ---
 
-### 📸 Aperçu
+## 📌 Purpose
 
-A suivre...
+This repository serves to group my personal creations in order to track my progress and test new ideas.
 
 ---
 
-### ✅ À faire / améliorations possibles
-
-- Ajouter des sons pendant la rotation
-- Permettre de personnaliser les options de la roue
-- Intégrer un bouton "Rejouer"
-- Améliorer la responsivité pour les écrans plus petits
-- Ajouter des animations supplémentaires
+✍️  **Author** : [Gr3nvaltBlack]
