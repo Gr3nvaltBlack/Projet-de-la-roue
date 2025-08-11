@@ -1,49 +1,47 @@
-<h2 align="center">Roue Aleatoire</h2>
+<h2 align="center">Random Wheel</h2>
 
-Création d'une roue aléatoire interactive basée sur trois langages : **HTML**, **CSS** & **JavaScript**.
-Cette application permet de faire tourner une roue et d'obtenir un résultat aléatoire visuellement.
+Create an interactive random wheel using three languages: **HTML**, **CSS**, and **JavaScript**.
+This application allows you to spin a wheel and visually obtain a random result.
 ___
 
-### 📁 Structure du projet
+### 📁 Project structure
 
-        projet-roue/
-        ├── index.html
-        ├── style.css
-        └── script.js
-
----
-
-### 🚀 Fonctionnalités
-
-- Interface visuelle d'une roue
-- Animation de rotation fluide
-- Résultat aléatoire affiché dynamiquement
-- Responsive (adaptée à différentes tailles d'écran)
+        ../random_wheel/
+                ├── index.html
+                ├── style.css
+                └── script.js
 
 ---
 
-### 💻 Technologies utilisées
+### 🚀 Features
 
-- **HTML** – pour la structure de la page
-- **CSS** – pour le style et les animations
-- **JavaScript** – pour la logique aléatoire et les interactions
-
----
-
-### 📸 Aperçu
-
-A suivre...
+- Visual interface of a wheel
+- Fluid rotation animation
+- Dynamically responsive (adapted to different screen sizes)
 
 ---
 
-### ✅ À faire / améliorations possibles
+### 💻 Technologies used
 
-- Ajouter des sons pendant la rotation
-- Permettre de personnaliser les options de la roue
-- Intégrer un bouton "Rejouer"
-- Améliorer la responsivité pour les écrans plus petits
-- Ajouter des animations supplémentaires
-- Logique de casino (multiplie la mise du player)
-- Rajout d'autres roues
-- Rendre les roues dynamiques (possibilite d'ajouter des strings)
-- couleur lien
+- **HTML** – for page structure
+- **CSS** – for styling and animations
+- **JavaScript** – for random logic and interactions
+
+---
+
+### 📸 Preview
+
+To be continued...
+
+---
+
+### ✅ Possible improvements
+
+- Add sounds during the spin
+- Allow you to customize wheel options
+- Display results
+- Improve responsiveness for smaller screens
+- Add additional animations
+- Casino logic (multiplies the player's bet)
+- Add more wheels
+- Make the wheels dynamic (option to add strings) 
